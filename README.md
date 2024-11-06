@@ -7,5 +7,5 @@ Este diagrama fue realizado usando la aplicacion [drawio.com](https://www.drawio
 
 ## Expliacion del diagrama
 
-<img src="disseny DDBB/Captura de pantalla 2024-11-06 172746.png" alt="Captura diagrama" style="width:60%"><br><br>
+<img src="disseny DDBB/Captura de pantalla 2024-11-06 172746.png" alt="Captura diagrama" style="width:80%"><br><br>
 
