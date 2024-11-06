@@ -9,7 +9,7 @@ Aquest diagrama ha estat realitzat utilitzant l'aplicació [drawio.com](https://
 
 <img src="disseny DDBB/Captura de pantalla 2024-11-06 172746.png" alt="Captura diagrama" style="width:100%"><br><br>
 
-El diagrama representa un model entitat-relació (ER) per la gestió de concerts. Aquest diagrama conté 6 entitatd, 6 interrelacions i cada entitat te els seus respectius atributs. Tambe hi ha una interrelacio que te els seus atributs. <br>
+El diagrama representa un model entitat-relació (ER) per la gestió de concerts. Aquest diagrama conté 6 entitats, 6 interrelacions i cada entitat te els seus respectius atributs. Tambe hi ha una interrelacio que te els seus atributs. <br>
 
 ## Atributs
 
